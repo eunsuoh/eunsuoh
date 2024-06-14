@@ -14,7 +14,5 @@ I'm Eunsoo, a passionate developer from Korea.
 
 ## 👩🏻‍🏫 Profession
 
-👩🏻‍🏫 **교사** 
-   - **수학교사**  Mathematics teacher
-   - **컴퓨터교사** Computer teacher
+👩🏻‍🏫 **Teacher** (Mathematics and Computer Science)  
 

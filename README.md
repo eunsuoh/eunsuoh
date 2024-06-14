@@ -10,6 +10,7 @@ I'm Eunsoo, a full-stack developer from Korea who specializes in both web and ap
 ## 💼 Experience
 
 🕊️ **교과서집필진** TextBook Writing  
+♾️ **무한상상 수학체험전 운영요원** Infinity Imagination Math Experience Fair Staff
 
 ## 👩🏻‍🏫 Profession
 

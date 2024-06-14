@@ -1,6 +1,5 @@
 # Hi there 👋
-
-I'm Eunsoo, a passionate developer from Korea.
+I'm Eunsoo, a full-stack developer from Korea who specializes in both web and app development. 
 
 ## 🏫 Education
 

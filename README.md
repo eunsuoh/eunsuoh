@@ -2,9 +2,15 @@
 
 I'm Eunsoo, a passionate developer from Korea.
 
-## 🏫 Education & Experience
+## 🏫 Education
 
 🐯 **고려대학교** Korea University  
+
+## 💼 Experience
+
 🕊️ **교과서집필진** TextBook Writing  
-👩🏻‍🏫 **교사** Teacher  
+
+## 👩🏻‍🏫 Profession
+
+👩🏻‍🏫 **교사** (Mathematics and Informatics Teacher)  
 
